@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "pi_pico")(type "KiCad")(uri "${KIPRJMOD}/Custom Parts/Footprints/pi_pico.pretty")(options "")(descr ""))
+  (lib (name "modules")(type "KiCad")(uri "${KIPRJMOD}/Custom Parts/Footprints/modules.pretty")(options "")(descr ""))
+)
